@@ -1,2 +1,4 @@
-# boredsmpmanager 
-#i hope this goes through uwu
+# Welcome to BoredSMP Season 4! 
+
+This is a test.
+
